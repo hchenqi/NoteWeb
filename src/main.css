@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+#note {
+  border: none;
+  outline: none;
+  padding: 5px;
+  font-size: 50px;
+}
